@@ -11,7 +11,7 @@ I transitioned from physics research into software because I wanted to stop anal
 | Project | What it does | Stack | Status |
 |--------|-------------|-------|--------|
 | [ARIA](https://github.com/sukanta0011/ARIA) | Multi-agent RAG system — queries dispatched async via Celery to a five-agent LangGraph pipeline | Python · LangGraph · FastAPI · Celery · Redis · PostgreSQL · Docker | 🔧 Active |
-| [D-RAG](https://github.com/sukanta0011/D-RAG) | Deployed RAG app for PDF question-answering — being extended into a job-search and CV tailoring tool | FastAPI · Gemini · Hybrid Search · Docker · DigitalOcean | 🚀 Live at [cthman.com](https://cthman.com) |
+| [D-RAG](https://github.com/sukanta0011/D-RAG) | Deployed RAG app for PDF question-answering — being extended into a job-search and CV tailoring tool | FastAPI · Gemini · Hybrid Search · Docker · DigitalOcean |  🔧 Active |
 | [RAG Against the Machine](https://github.com/sukanta0011/Core_Rank04_RAG_against_the_machine) | RAG pipeline over the vLLM repo — four retrieval strategies, 93% Recall@10 | Python · ChromaDB · BM25 · LangChain · FastAPI · Docker | ✅ Complete |
 | [Call Me Maybe](https://github.com/sukanta0011/Core_Rank03_call_me_maybe) | Constrained LLM decoding via trie-based token masking — 100% valid JSON from a 0.6B model (up from 30%) | Python · Custom BPE Tokenizer | ✅ Complete |
 
